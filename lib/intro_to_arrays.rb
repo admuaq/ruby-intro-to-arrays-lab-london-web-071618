@@ -11,6 +11,6 @@ def first_element(taylor_swift)
 end
   
 def third_element(taylor_swift)
-  taylor_swift[0]
+  taylor_swift[3]
 end
   
