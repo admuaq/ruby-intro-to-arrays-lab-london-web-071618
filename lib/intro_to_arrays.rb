@@ -22,4 +22,11 @@ def first_element_with_array_methods
   taylor_swift.first
 end
   
+def last_element_with_array_methods
+  taylor_swift.last
+end
+
+def length_of_array
+  
+end
   
