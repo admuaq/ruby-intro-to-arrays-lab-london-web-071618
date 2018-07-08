@@ -17,4 +17,9 @@ end
 def last_element(taylor_swift)
   taylor_swift[-1]
 end
+
+def first_element_with_array_methods
+  taylor_swift.pop
+end
+  
   
